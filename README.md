@@ -5,7 +5,7 @@
 - **Loop Subdivsion**---[Loop_Subdivision.md](Loop_Subdivision.md)
 
 ## Demo
-![Demo](videos/demo.gif){: width="640"}
+![Demo](videos/demo.gif)
 
 
 
