@@ -5,9 +5,7 @@
 - **Loop Subdivsion**---[Loop_Subdivision.md](Loop_Subdivision.md)
 
 ## Demo
-<video width="640" height="360" controls>
-  <source src="videos/20260526_051023.mp4" type="video/mp4">
-</video>
+![Demo](videos/demo.gif){: width="640"}
 
 
 
