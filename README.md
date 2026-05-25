@@ -6,8 +6,7 @@
 
 ## Demo
 <video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
-  您的浏览器不支持视频播放，请下载视频查看：[demo.mp4](demo.mp4)
+  <source src="videos/20260526_051023.mp4" type="video/mp4">
 </video>
 
 
